@@ -1,2 +1,2 @@
 # ci-cd
-<h1> CI-CD 
+Learn Continuous Integration and Continuous Delivery (CICD) with github actions
